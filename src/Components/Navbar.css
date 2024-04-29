@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    
+    background-image: url(back.jpeg);
+    background-position: right 45% bottom 90%;
+}

@@ -1,0 +1,44 @@
+.navbar-container {
+    position: top;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #681f1f; /* Change the background color as needed */
+    padding: 10px 20px; /* Adjust padding as needed */
+    z-index: 1000; /* Ensure it stays on top of other elements */
+  }
+  label{
+    color: white;
+  }
+  h3{
+    color: white;
+  }
+  h4{
+    color: white;
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-item {
+    display: inline-block;
+    margin-right: 20px; /* Adjust spacing between navbar items */
+  }
+  
+  .navbar-item:last-child {
+    margin-right: 0; /* Remove margin from last item */
+  }
+  
+  .navbar-item a {
+    color: white; /* Change the text color as needed */
+    text-decoration: none;
+  }
+  
+  .navbar-item a:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+  
+  
